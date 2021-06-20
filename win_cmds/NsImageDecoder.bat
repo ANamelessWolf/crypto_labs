@@ -1,1 +1,0 @@
-python ../py_cmds/ImageDecoder.py %1

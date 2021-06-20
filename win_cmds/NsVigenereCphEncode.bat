@@ -1,1 +1,0 @@
-python ../py_cmds/VigenereCipherEncoder.py %1 %2
