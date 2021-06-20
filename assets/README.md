@@ -1,0 +1,1 @@
+Guardar los assets que se requieran en pruebas de encriptación
